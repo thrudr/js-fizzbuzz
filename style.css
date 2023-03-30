@@ -13,3 +13,26 @@ h1 {
     text-align: center;
 }
 
+.margin-square {
+    margin: auto;
+    width: 80%;    
+}
+
+.square {
+    height: 80px;
+    width: 80px;
+    background-color: rgb(105, 10, 132);
+    text-align: center;
+    line-height: 85px;
+    vertical-align: middle;
+    margin: 10px;
+}
+
+.display{
+    display: flex;
+    
+}
+
+.wrap {
+    flex-wrap: wrap;
+}
